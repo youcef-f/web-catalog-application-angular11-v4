@@ -361,20 +361,16 @@ declaration d'une variable **Observable** , il faut au niveau du code html intro
 il faut faire appelle à la calsse ActivatedRoute.snpashot.params.id
     this.productId = activatedRoute.snapshot.params.id;
 
-## Etat de l'application: methode input output d'angular.
+## Etat de l'application: methode input output d'angular projet V2
 ![](doc/images/composants.jpg)
 
-![](doc/images/inputoutput0.jpg)
 
-![](doc/images/inputoutput1.jpg)
 
-![](doc/images/inputoutput2.jpg)
-
-![](doc/images/inputoutput3.jpg)
-
-## Etat de l'application: methode ngRx. ( préféré). projet v3  ( subscriber et publisher )
-![](doc/images/ngrx.jpg)
-le défaut de la méthode **input output** d'Angular deviens assez compliquer pour de grosse application. Il faut donc préféré **ngRx** à la place qui s'appuye sur **EventSubjectService**
+## Etat de l'application: methode RxJS.  projet v3  ( subscriber et publisher )
+le défaut de la méthode **input output** d'Angular deviens assez compliquer pour de grosse application. Il faut donc préféré **rxjs** à la place qui s'appuye sur **EventSubjectService**
 ![](doc/images/outputinput.jpg)
+
+## Etat de l'application: methode ngRx. ( préféré). projet v4 
+![](doc/images/ngrx.jpg)
 
 
