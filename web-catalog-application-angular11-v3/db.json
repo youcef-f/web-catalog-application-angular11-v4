@@ -1,0 +1,36 @@
+{
+  "produits": [
+    {
+      "name": "Printer",
+      "price": "1",
+      "selected": true,
+      "id": 2,
+      "available": false,
+      "quantity": "0"
+    },
+    {
+      "name": "azertyw",
+      "price": "100",
+      "selected": true,
+      "id": 3,
+      "available": true,
+      "quantity": "20"
+    },
+    {
+      "name": "kljlklkopôpôpô",
+      "price": 0,
+      "selected": true,
+      "id": 4,
+      "available": true,
+      "quantity": 0
+    },
+    {
+      "name": "aaaaaaaaaaaa",
+      "price": 0,
+      "selected": true,
+      "id": 5,
+      "available": true,
+      "quantity": 0
+    }
+  ]
+}
